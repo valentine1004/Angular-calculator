@@ -1,0 +1,40 @@
+.equally{
+	width:410px;
+	height:105px;
+	border:2px solid gray;
+	overflow: hidden;
+	margin: 45px;
+}
+.result{
+	color:red;
+	margin-left:45px;
+}
+button{
+	width:65px;
+	height:65px;
+	margin:2.5px;
+}
+.buttons{
+	width:410px;
+	margin:45px;
+}
+.numbers{
+	float:left;
+	width:55%;
+	/*margin-left:20px; */
+}
+.options{
+	width:40%;
+	float:right;
+	margin-left:20px; 
+}
+.red{
+	background: red;
+	color:white;
+}
+.black{
+	color:black;
+}
+.point{
+	font-size: 25px;
+}
