@@ -41,6 +41,9 @@ export class ResultComponent implements OnInit {
 	nine(){
 	   this.result += 9;
 	}
+  zero(){
+	   this.result += 0;
+	}
 	minus(){
 		this.result += '-';
 	}
